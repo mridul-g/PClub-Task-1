@@ -1,0 +1,1 @@
+This problem requires simple implementation of binary search algorithm. the profit made after $a$ articles is $P^3 - f(a)$. I have created simple. This code has time complexity of $O(logN)$.
